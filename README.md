@@ -1,5 +1,5 @@
 # Physics-Informed-ML
-This repo will contain physics Informed ML, regrading principles of physics, and its application in ML, and my understandings to those topics, etc. 
+This repo will contain multiple topics including Casual Learning, Physics Informed ML, and my understandings to those topics, etc. 
 
 ## Physics-aware ML Paper and Code
 
