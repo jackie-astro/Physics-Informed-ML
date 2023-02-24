@@ -11,3 +11,9 @@ This repo will contain physics inspired DL, regrading principles of physics, and
   </details>
   
   
+- Neural Ordinary Differential Equations  [paper](https://arxiv.org/pdf/1806.07366.pdf) [code](https://github.com/jqwenchen/PIML/tree/master/NeuralODE)
+  <details><summary>Notes</summary>
+	How ODE’s can be used to solve data modelling problems-> solving problems using the muscle power of neural networks.
+  </details>
+  
+  
