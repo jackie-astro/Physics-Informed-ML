@@ -1,0 +1,58 @@
+GraphPDE(
+  (coef_nets): ModuleList(
+    (0): Sequential(
+      (0): EdgeBlock(
+        (net): Sequential(
+          (0): Linear(in_features=6, out_features=64, bias=True)
+          (1): ReLU()
+          (2): Linear(in_features=64, out_features=64, bias=True)
+          (3): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (4): ReLU()
+        )
+      )
+      (1): NodeBlock(
+        (net): Sequential(
+          (0): Linear(in_features=131, out_features=64, bias=True)
+          (1): ReLU()
+          (2): Linear(in_features=64, out_features=64, bias=True)
+          (3): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (4): ReLU()
+        )
+      )
+      (2): EdgeBlock(
+        (net): Sequential(
+          (0): Linear(in_features=192, out_features=64, bias=True)
+          (1): ReLU()
+          (2): Linear(in_features=64, out_features=3, bias=True)
+        )
+      )
+    )
+    (1): Sequential(
+      (0): EdgeBlock(
+        (net): Sequential(
+          (0): Linear(in_features=6, out_features=64, bias=True)
+          (1): ReLU()
+          (2): Linear(in_features=64, out_features=64, bias=True)
+          (3): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (4): ReLU()
+        )
+      )
+      (1): NodeBlock(
+        (net): Sequential(
+          (0): Linear(in_features=131, out_features=64, bias=True)
+          (1): ReLU()
+          (2): Linear(in_features=64, out_features=64, bias=True)
+          (3): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (4): ReLU()
+        )
+      )
+      (2): EdgeBlock(
+        (net): Sequential(
+          (0): Linear(in_features=192, out_features=64, bias=True)
+          (1): ReLU()
+          (2): Linear(in_features=64, out_features=3, bias=True)
+        )
+      )
+    )
+  )
+)
