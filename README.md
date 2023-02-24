@@ -15,7 +15,7 @@ This repo will contain multiple topics including Casual Learning, Physics Inform
 	Physics on continuous Domain + Sparse and irregular observed points = Time Series at obaserved points
   </details>
   
-## Casual-aware ML Paper and Code
+## Casual-aware ML Paper and Notes
 
 - Estimating Treatment Effects from Irregular Time Series Observations with Hidden Confounders  [paper](https://idevede.github.io/pdf/LipCDE.pdf) [note](https://github.com/jqwenchen/PIML/blob/master/paper/Estimating%20Treatment%20Effects%20from%20Irregular%20Time%20Series%20Observations%20with%20Hidden%20Confounders.md)
   <details><summary>Notes</summary>
