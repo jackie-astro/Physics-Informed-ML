@@ -1,4 +1,4 @@
-# Knowledge-Awared-ML
+# Knowledge-Aware-ML
 This repo will contain multiple topics including Casual Learning, Physics Informed ML, and my understandings to those topics, etc. 
 
 ## Physics-aware ML Paper and Code
