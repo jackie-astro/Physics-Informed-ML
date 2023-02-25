@@ -3,7 +3,7 @@ This repo will contain multiple topics including Casual Learning, Physics Inform
 
 ## Physics-aware ML Paper and Code
 
-- WHEN PHYSICS MEETS MACHINE LEARNING: A SURVEY OF PHYSICS-INFORMED MACHINE LEARNING  [paper](https://arxiv.org/pdf/2203.16797.pdf) 
+- When Physics Meets Machine Learning: A survey of Physics-Informed Machine Learning [paper](https://arxiv.org/pdf/2203.16797.pdf) 
   <details><summary>Notes</summary>
 	A well-round survey including ML for Physics, Physics for ML, etc.
   </details>
