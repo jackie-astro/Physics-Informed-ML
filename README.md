@@ -25,7 +25,7 @@ This repo will contain multiple topics including Casual Learning, Physics Inform
   2. The second level, Intervention, which is more complex than correlation because it involves not just what we see, but changing what we see.
   3. The third level is counterfactuals, (Structural Casual Model) Counterfactuals are placed at the top of the hierarchy because they include intervening and relational questions. If a model is devised that can answer counterfactuals, it can also answer questions about interventions and observations.
   
-  <img width="650" alt="knowledge-aware" src="https://github.com/jqwenchen/PIML/blob/master/paper/imgs/2.png">
+    <img width="450" alt="knowledge-aware" src="https://github.com/jqwenchen/PIML/blob/master/paper/imgs/2.png">
 
 - Estimating Treatment Effects from Irregular Time Series Observations with Hidden Confounders  [paper](https://idevede.github.io/pdf/LipCDE.pdf) [note](https://github.com/jqwenchen/PIML/blob/master/paper/Estimating%20Treatment%20Effects%20from%20Irregular%20Time%20Series%20Observations%20with%20Hidden%20Confounders.md)
   <details><summary>Notes</summary>
