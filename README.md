@@ -3,6 +3,12 @@ This repo will contain multiple topics including Casual Learning, Physics Inform
 
 ## Physics-aware ML Paper and Code
 
+- WHEN PHYSICS MEETS MACHINE LEARNING: A SURVEY OF PHYSICS-INFORMED MACHINE LEARNING  [paper](https://arxiv.org/pdf/2203.16797.pdf) 
+  <details><summary>Notes</summary>
+	A well-round survey including ML for Physics, Physics for ML, etc.
+  </details>
+  
+  
 - Neural Ordinary Differential Equations  [paper](https://arxiv.org/pdf/1806.07366.pdf) [code](https://github.com/jqwenchen/PIML/tree/master/NeuralODE)
   <details><summary>Notes</summary>
 	How ODE’s can be used to solve data modelling problems-> solving problems using the muscle power of neural networks.
