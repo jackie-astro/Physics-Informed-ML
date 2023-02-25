@@ -25,7 +25,7 @@ This repo will contain multiple topics including Casual Learning, Physics Inform
   
     <img width="450" alt="knowledge-aware" src="https://github.com/jqwenchen/PIML/blob/master/paper/imgs/2.png">
 
-   ### Difference between Intervention and Counterfactuals
+   #### Difference between Intervention and Counterfactuals
  
    This difference can be distinguished by the actual application scenario. If the question we want to answer is that there is no scene in the data that requires us to observe, then it can be considered as a counterfactual; In short, the data after the second layer of intervention may contain other observed variables to assist in the completion.
 
