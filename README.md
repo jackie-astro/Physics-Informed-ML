@@ -23,7 +23,7 @@ This repo will contain multiple topics including Casual Learning, Physics Inform
   2. The second level is Intervention, which is more complex than correlation because it involves not just what we see, but changing what we see.
   3. The third level is counterfactuals, (Structural Casual Model) Counterfactuals are placed at the top of the hierarchy because they include intervening and relational questions. If a model is devised that can answer counterfactuals, it can also answer questions about interventions and observations.
   
-    <img width="450" alt="knowledge-aware" src="https://github.com/jqwenchen/KIML/blob/master/paper/imgs/2.png">
+   <img width="450" alt="knowledge-aware" src="https://github.com/jqwenchen/PIML/blob/master/paper/imgs/2.png">
 
    #### Difference between Intervention and Counterfactuals
  
