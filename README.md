@@ -14,7 +14,7 @@ This repo will contain multiple topics including Casual Learning, Physics Inform
 	How ODE’s can be used to solve data modelling problems-> solving problems using the muscle power of neural networks.
   </details>
 
-- Physics-aware Difference Graph Networks For Sparsely-Observed Dynamics  [paper](https://openreview.net/pdf?id=r1gelyrtwH) [code](https://github.com/jqwenchen/PIML/tree/master/PADGN) [Note] (https://github.com/jqwenchen/KIML/blob/master/paper/PHYSICS-AWARE%20DIFFERENCE%20GRAPH%20NETWORKS%20FOR%20SPARSELY-OBSERVED%20DYNAMICS.md)
+- Physics-aware Difference Graph Networks For Sparsely-Observed Dynamics  [paper](https://openreview.net/pdf?id=r1gelyrtwH) [code](https://github.com/jqwenchen/PIML/tree/master/PADGN) [Note](https://github.com/jqwenchen/KIML/blob/master/paper/PHYSICS-AWARE%20DIFFERENCE%20GRAPH%20NETWORKS%20FOR%20SPARSELY-OBSERVED%20DYNAMICS.md)
   <details><summary>Notes</summary>
         ** Previous code has some bugs, and cannot work with PyG2.0, re-Implement, now compatible wth PyG2.0 **
 	
