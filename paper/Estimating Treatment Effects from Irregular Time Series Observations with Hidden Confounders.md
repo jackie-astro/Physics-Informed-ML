@@ -16,6 +16,7 @@ Author: Defu Cao James Enouen Yujing Wang Xiangchen Song Chuizheng Meng Hao Niu 
 1. "Necessary and sufficient conditions for causal feature selection in time series with latent common causes" Study the identification of direct and indirect causes for causal feature selection in time series solely based on observational data
 2. Deconfounding-based models use latent variables given by their factor model as substitutes for the hidden confounders to render the assigned treatments conditionally independent.
    (Time series deconfounder: Estimating treatment effects over time in the presence of hidden confounders.
+    
     Sequential Deconfounding for Causal Inference with Unobserved Confounders)
 
 ### Limitations
