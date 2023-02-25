@@ -17,6 +17,10 @@ This repo will contain multiple topics including Casual Learning, Physics Inform
   
 ## Casual-aware ML Paper and Notes
 
+- Casual Learning and Casual Discovery
+  
+  <img width="750" alt="knowledge-aware" src="https://github.com/jqwenchen/PIML/blob/master/paper/imgs/2.png">
+
 - Estimating Treatment Effects from Irregular Time Series Observations with Hidden Confounders  [paper](https://idevede.github.io/pdf/LipCDE.pdf) [note](https://github.com/jqwenchen/PIML/blob/master/paper/Estimating%20Treatment%20Effects%20from%20Irregular%20Time%20Series%20Observations%20with%20Hidden%20Confounders.md)
   <details><summary>Notes</summary>
         Causal analysis for time series data: estimating individualized treatment effect
