@@ -1,5 +1,5 @@
 # Knowledge-Aware-ML
-This repo will contain multiple topics including Neural Differential Equations, Casual Learning, Physics Informed ML, and my understandings to those topics, etc. 
+This repo will contain multiple topics including Neural Differential Equations, Physics Informed ML, Casual Learning, and my understandings to those topics, etc. 
 
 ## Physics-aware ML Paper and Code
 
