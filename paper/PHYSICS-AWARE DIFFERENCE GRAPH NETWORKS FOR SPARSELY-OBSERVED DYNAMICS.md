@@ -22,5 +22,5 @@ aggregating neighboring information in the sparse data points. The layer is base
 structural features to learn the localized representations and share the parameters for computing the localized features
  
 Then, the layer is followed by recurrent graph networks (RGN) to predict the temporal difference which is another core 
-component of physics-related dynamic equations. PA-DGN is applicable to various tasks and we provide two representative tasks;
+component of physics-related dynamic equations. PA-DGN is applicable to various tasks and two representative tasks are provided;
 the approximation of directional derivatives and the prediction of graph signals.
