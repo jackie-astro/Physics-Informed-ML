@@ -42,7 +42,7 @@ This repo will contain multiple topics including Neural Differential Equations, 
 
  ### Paper and Notes with Casual Learning and Casual Discovery
  
- - Towards Causal Representation Learning  [paper](https://arxiv.org/pdf/2102.11107.pdf) 
+- Towards Causal Representation Learning  [paper](https://arxiv.org/pdf/2102.11107.pdf) 
   <details><summary>Notes</summary>
         Causal Representation Learning
   </details>
