@@ -42,6 +42,11 @@ This repo will contain multiple topics including Neural Differential Equations, 
 
  ### Paper and Notes with Casual Learning and Casual Discovery
 
+- A Survey on Causal Reinforcement Learning  [paper](https://arxiv.org/pdf/2302.05209.pdf) 
+  <details><summary>Notes</summary>
+        Causal Reinforcement Learning
+  </details>
+
 - Estimating Treatment Effects from Irregular Time Series Observations with Hidden Confounders  [paper](https://idevede.github.io/pdf/LipCDE.pdf) [note](https://github.com/jqwenchen/PIML/blob/master/paper/Estimating%20Treatment%20Effects%20from%20Irregular%20Time%20Series%20Observations%20with%20Hidden%20Confounders.md)
   <details><summary>Notes</summary>
         Causal analysis for time series data: estimating individualized treatment effect
