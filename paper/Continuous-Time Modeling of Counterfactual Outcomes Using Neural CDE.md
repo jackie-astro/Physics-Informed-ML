@@ -1,5 +1,14 @@
 Author: Nabeel Seedat  Fergus Imrie Alexis Bellot Zhaozhi Qian Mihaela van der Schaar
 
+
+## Basic Knowledge
+
+1. ATE ：Average Treatment Effect
+2. ATT ：Average Treatment Effects on Treated
+3. CATE：Conditional Average Treatment Effect
+4. ITE：Individual Treatment Effect
+
+
 ## Challenges:
 
 1. Existing causal inference approaches typically consider regular, discrete-time intervals between observations and treatment decisions and
