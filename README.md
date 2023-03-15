@@ -9,7 +9,7 @@ This repo will contain multiple topics including Neural Differential Equations, 
   </details>
   
   
-- Neural Ordinary Differential Equations  [paper](https://arxiv.org/pdf/1806.07366.pdf) [code](https://github.com/jqwenchen/PIML/tree/master/NeuralODE)
+- Neural Ordinary Differential Equations  [paper](https://arxiv.org/pdf/1806.07366.pdf) [code](https://github.com/jqwenchen/PIML/tree/master/NeuralODE) [note](https://github.com/jqwenchen/KIML/blob/master/paper/Estimating%20Treatment%20Effects%20from%20Irregular%20Time%20Series%20Observations%20with%20Hidden%20Confounders.md)
   <details><summary>Notes</summary>
 	How ODE’s can be used to solve data modelling problems-> solving problems using the muscle power of neural networks.
   </details>
