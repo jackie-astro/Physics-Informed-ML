@@ -9,12 +9,12 @@ This repo will contain multiple topics including Neural Differential Equations, 
   </details>
   
   
-- Neural Ordinary Differential Equations  [paper](https://arxiv.org/pdf/1806.07366.pdf) [note](https://github.com/jqwenchen/KIML/blob/master/paper/Estimating%20Treatment%20Effects%20from%20Irregular%20Time%20Series%20Observations%20with%20Hidden%20Confounders.md)
+- Neural Ordinary Differential Equations  [paper](https://arxiv.org/pdf/1806.07366.pdf) [note](https://github.com/jqwenchen/KIML/blob/master/paper/Estimating%20Treatment%20Effects%20from%20Irregular%20Time%20Series%20Observations%20with%20Hidden%20Confounders.md) [note](https://github.com/jqwenchen/KIML/blob/master/paper/ODE-note.pdf)
   <details><summary>Notes</summary>
 	How ODE’s can be used to solve data modelling problems-> solving problems using the muscle power of neural networks.
   </details>
 
-- Physics-aware Difference Graph Networks For Sparsely-Observed Dynamics  [paper](https://openreview.net/pdf?id=r1gelyrtwH) [code](https://github.com/jqwenchen/PIML/tree/master/PADGN) [note](https://github.com/jqwenchen/KIML/blob/master/paper/ODE-note.pdf)
+- Physics-aware Difference Graph Networks For Sparsely-Observed Dynamics  [paper](https://openreview.net/pdf?id=r1gelyrtwH) [code](https://github.com/jqwenchen/PIML/tree/master/PADGN) 
   <details><summary>Notes</summary>
         ** Previous code has some bugs, and cannot work with PyG2.0, re-Implement, now compatible wth PyG2.0 **
 	
