@@ -41,6 +41,17 @@ This repo will contain multiple topics including Neural Differential Equations, 
    This difference can be distinguished by the actual application scenario. If the question we want to answer is that there is no scene in the data that requires us to observe, then it can be considered as a counterfactual; In short, the data after the second layer of intervention may contain other observed variables to assist in the completion.
 
  ### Paper and Notes with Casual Learning and Casual Discovery
+ 
+ - Towards Causal Representation Learning  [paper](https://arxiv.org/pdf/2102.11107.pdf) 
+  <details><summary>Notes</summary>
+        Causal Representation Learning
+  </details>
+
+- Causal Inference in Recommender Systems: A Survey and Future Directions  [paper](https://arxiv.org/pdf/2208.12397.pdf) 
+  <details><summary>Notes</summary>
+        Causal Inference in Recommender Systems
+  </details>
+
 
 - A Survey on Causal Reinforcement Learning  [paper](https://arxiv.org/pdf/2302.05209.pdf) 
   <details><summary>Notes</summary>
