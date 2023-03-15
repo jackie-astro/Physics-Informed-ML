@@ -21,6 +21,12 @@ This repo will contain multiple topics including Neural Differential Equations, 
 	Physics on continuous Domain + Sparse and irregular observed points = Time Series at obaserved points
   </details>
   
+- Coupled Multiwavelet Operator Learning for Coupled Differential Equations  [paper](https://openreview.net/pdf?id=kIo_C6QmMOM) 
+  <details><summary>Notes</summary>
+        Partial differential equations (PDEs) are key tasks in modeling the complex dynamics of many physical processes.
+  </details>
+  
+  
 ## Casual-aware ML Paper and Notes
  ### Basic Knowledge with Casual Learning and Casual Discovery
    #### Casual Inference Three Stairs
@@ -41,6 +47,5 @@ This repo will contain multiple topics including Neural Differential Equations, 
         Causal analysis for time series data: estimating individualized treatment effect
   </details>
   
-  
-  
+
   
