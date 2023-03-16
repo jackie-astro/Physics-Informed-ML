@@ -1,7 +1,7 @@
 # Knowledge-Aware-ML
 This repo will contain multiple topics including Neural Differential Equations, Physics Informed ML, Casual Learning, and my understandings to those topics, etc. 
 
-## Physics-aware ML Paper and Code
+## Physics-aware ML Paper and Notes
 
 - When Physics Meets Machine Learning: A survey of Physics-Informed Machine Learning [paper](https://arxiv.org/pdf/2203.16797.pdf) 
   <details><summary>Notes</summary>
