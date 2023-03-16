@@ -44,7 +44,8 @@ This repo will contain multiple topics including Neural Differential Equations, 
  
 - Towards Causal Representation Learning  [paper](https://arxiv.org/pdf/2102.11107.pdf) 
   <details><summary>Notes</summary>
-        1. describe different levels of modeling in physical systems and present the differences between causal and
+        
+	1. describe different levels of modeling in physical systems and present the differences between causal and
         statistical models (including Predicting in the i.i.d. setting, Predicting Under Distribution Shifts, Answering Counterfactual Questions,
 	                    and Nature of Data: Observational, Interventional,(Un)structured)
 	
