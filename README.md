@@ -80,9 +80,9 @@ This repo will contain multiple topics including Neural Differential Equations, 
         To address the issue of model's  degeneration performance when encountering data with randomly missing entries or non-uniform sampling frequencies,
 	CUTS is proposed as a neural Granger causal discovery algorithm to jointly impute unobserved data points and build causal graphs, via plugging in           two mutually boosting modules in an iterative framework:
 		 
-         (i) Latent data prediction stage: designs a Delayed Supervision Graph Neural Network (DSGNN) to hallucinate and register irregular data                    which might be of high dimension and with complex distribution; 
+        1. Latent data prediction stage: designs a Delayed Supervision Graph Neural Network (DSGNN) to hallucinate and register irregular data                    which might be of high dimension and with complex distribution; 
 	
-	 (ii) Causal graph fitting stage: builds a causal adjacency matrix with imputed data under sparse penalty.
+	2. Causal graph fitting stage: builds a causal adjacency matrix with imputed data under sparse penalty.
 	
   </details>
   
