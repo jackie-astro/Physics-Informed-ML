@@ -93,6 +93,15 @@ This repo will contain multiple topics including Neural Differential Equations, 
    2. Causal graph fitting stage: builds a causal adjacency matrix with imputed data under sparse penalty.
 	
   </details>
-  
 
+## Structure-Learning Paper and Notes (with a special focus on Spectral Temporal Data, Graph Data Mining)
+- Directed Acyclic Graph Structure Learning from Dynamic Graphs  [paper](http://www.shichuan.org/doc/142.pdf) 
+  <details><summary>Notes</summary>
+        node feature generation mechanism on such ubiquitous dynamic graph data
+  </details>
+  
+ - NEURAL GRAPHICAL MODELLING IN CONTINUOUSTIME: CONSISTENCY GUARANTEES AND ALGORITHMS [paper](http://www.shichuan.org/doc/142.pdf) 
+  <details><summary>Notes</summary>
+        discover structure from time series data
+  </details>
   
