@@ -42,7 +42,7 @@ This repo will contain multiple topics including Neural Differential Equations, 
    
    #### Classes of Causal Structural Learning / Causal Discovery  
    	
-	A:  Constraint-based approaches : build causal graphs by conditional independence tests (PC; Fast Causal Inference; PCMCI)
+	A: Constraint-based approaches : build causal graphs by conditional independence tests (PC; Fast Causal Inference; PCMCI)
 	B: Score based learning algorithms based on penalized Neural Ordinary Differential Equations
 	C: Convergent Cross Mapping (CCM): tackles the problems of nonseparable weakly connected dynamic systems by reconstructing nonlinear state space
 	D: Approaches based on Additive Noise Model
