@@ -39,7 +39,15 @@ This repo will contain multiple topics including Neural Differential Equations, 
    #### Difference between Intervention and Counterfactuals
  
    This difference can be distinguished by the actual application scenario. If the question we want to answer is that there is no scene in the data that requires us to observe, then it can be considered as a counterfactual; In short, the data after the second layer of intervention may contain other observed variables to assist in the completion.
-
+   
+   #### Classes of Causal Structural Learning / Causal Discovery  
+   	
+	A:  Constraint-based approaches : build causal graphs by conditional independence tests (PC; Fast Causal Inference; PCMCI)
+	B: Score based learning algorithms based on penalized Neural Ordinary Differential Equations
+	C: Convergent Cross Mapping (CCM): tackles the problems of nonseparable weakly connected dynamic systems by reconstructing nonlinear state space
+	D: Approaches based on Additive Noise Model
+	E: Granger causality approach: analyze the temporal causal relationships by testing the aid of a time-series on predicting another time-series. 
+		
  ### Paper and Notes with Casual Learning and Casual Discovery
  
 - Towards Causal Representation Learning  [paper](https://arxiv.org/pdf/2102.11107.pdf) 
