@@ -2,7 +2,7 @@
 This repo will contain multiple topics including Neural Differential Equations, Physics Informed ML, Casual Learning, and my understandings to those topics, etc. 
 
 
-## NeuralODE, PDE Paper and Notes
+## NeuralODE, PDE, CDE, SDE Paper and Notes
 
 - Neural Ordinary Differential Equations  [paper](https://arxiv.org/pdf/1806.07366.pdf) [note](https://github.com/jqwenchen/KIML/blob/master/paper/ODE-note.pdf)
   <details><summary>Notes</summary>
