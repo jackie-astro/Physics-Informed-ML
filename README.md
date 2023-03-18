@@ -94,6 +94,12 @@ This repo will contain multiple topics including Neural Differential Equations, 
 	
   </details>
 
+- Causal Inference in Time Series via Supervised Learning  [paper](https://www.ijcai.org/proceedings/2018/0282.pdf) 
+  <details><summary>Notes</summary>
+       present feature representation provides sufficiently different feature vectors for time series with 
+       different causal relationships.
+  </details>
+
 ## Structure-Learning Paper and Notes (with a special focus on Spectral Temporal Data, Graph Data Mining)
 - Directed Acyclic Graph Structure Learning from Dynamic Graphs  [paper](http://www.shichuan.org/doc/142.pdf) 
   <details><summary>Notes</summary>
