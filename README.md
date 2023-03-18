@@ -100,12 +100,12 @@ This repo will contain multiple topics including Neural Differential Equations, 
         node feature generation mechanism on such ubiquitous dynamic graph data
   </details>
   
- - NEURAL GRAPHICAL MODELLING IN CONTINUOUSTIME: CONSISTENCY GUARANTEES AND ALGORITHMS [paper](https://arxiv.org/pdf/2105.02522.pdf) 
+- NEURAL GRAPHICAL MODELLING IN CONTINUOUSTIME: CONSISTENCY GUARANTEES AND ALGORITHMS [paper](https://arxiv.org/pdf/2105.02522.pdf) 
   <details><summary>Notes</summary>
         discover structure from time series data
   </details>
   
- - Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting  [paper](https://arxiv.org/pdf/2103.07719.pdf) 
+- Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting  [paper](https://arxiv.org/pdf/2103.07719.pdf) 
   <details><summary>Notes</summary>
         Multivariate time-series forecasting
   </details>
