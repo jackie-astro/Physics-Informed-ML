@@ -99,10 +99,11 @@ This repo will contain multiple topics including Neural Differential Equations, 
        Traditional methods for identifying Granger causality use regression models such as the vector autoregressive (VAR) model and the generalized 
        additive models (GAM).
    
-   Challenges:
+   
+  Challenges:
      selecting an appropriate regression model for each time series data is difficult and requires a deep understanding of the data analysis.
    
-   How to Solve:
+  How to Solve:
      propose solving the problem of Granger causality identification by ternary classification, in other words, by training a classifier that assigns 
      ternary causal labels (X → Y , X ← Y , or No Causation) to time series.
   </details>
